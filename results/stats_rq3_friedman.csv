@@ -1,0 +1,13 @@
+strategy,condition,tuning,friedman_chi2,friedman_p,avg_rank_Complement NB,avg_rank_LinearSVC,avg_rank_XGBoost,avg_rank_MLP,friedman_p_holm
+BR,none,fixed,6.7,0.0821,2.75,1.6667,2.75,2.8333,0.0821
+BR,none,tuned,28.5,0.0,3.9167,1.1667,2.1667,2.75,0.0
+BR,weight,fixed,16.2,0.001,3.5833,2.0833,1.5833,2.75,0.0031
+BR,weight,tuned,23.3,0.0,3.4167,1.3333,1.9167,3.3333,0.0002
+BR,mlsmote,fixed,11.7,0.0085,3.5,1.75,2.5,2.25,0.017
+BR,mlsmote,tuned,27.7,0.0,4.0,1.5833,1.6667,2.75,0.0
+CC,none,fixed,21.1,0.0001,3.75,1.3333,2.5,2.4167,0.0005
+CC,none,tuned,28.3,0.0,3.9167,1.25,2.0,2.8333,0.0
+CC,weight,fixed,21.8,0.0001,3.9167,1.5833,2.0833,2.4167,0.0004
+CC,weight,tuned,25.7,0.0,3.8333,1.4167,1.8333,2.9167,0.0001
+CC,mlsmote,fixed,19.7,0.0002,3.9167,1.8333,2.0833,2.1667,0.0008
+CC,mlsmote,tuned,28.3,0.0,4.0,1.4167,1.8333,2.75,0.0

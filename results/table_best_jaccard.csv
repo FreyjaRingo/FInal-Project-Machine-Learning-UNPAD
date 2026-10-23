@@ -1,0 +1,9 @@
+algo,strategy,condition,tuning,jaccard_acc,macro_f1
+IndoBERTweet,mo,none,fixed,0.7989,0.659
+IndoBERTweet,mo,none,tuned,0.7955,0.7037
+IndoBERTweet,mo,weight,tuned,0.781,0.7332
+XGBoost,cc,none,fixed,0.7649,0.6562
+XGBoost,cc,mlsmote,fixed,0.7631,0.6713
+LinearSVC,cc,none,fixed,0.7623,0.6676
+IndoBERTweet,mo,weight,fixed,0.7621,0.6981
+XGBoost,cc,weight,fixed,0.761,0.6666

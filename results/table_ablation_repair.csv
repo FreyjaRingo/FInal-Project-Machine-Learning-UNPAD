@@ -1,0 +1,5 @@
+algo,condition,macro_f1,minority_macro_f1,jaccard_acc,pred_hierarchy_violation_rate,n_synthetic,n_repaired
+cnb,mlsmote,0.5482,0.3838,0.5662,0.4452,2108.8,335.0
+cnb,mlsmote_raw,0.5479,0.3858,0.5646,0.4416,2072.2,0.0
+svm,mlsmote,0.6398,0.5735,0.7115,0.2582,2108.8,335.0
+svm,mlsmote_raw,0.6367,0.5713,0.7108,0.262,2072.2,0.0

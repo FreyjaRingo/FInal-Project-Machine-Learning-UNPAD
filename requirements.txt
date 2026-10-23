@@ -1,0 +1,16 @@
+# PyTorch dengan CUDA dipasang terpisah sesuai GPU: https://pytorch.org/get-started/locally/
+numpy
+pandas
+scipy
+scikit-learn
+iterative-stratification
+matplotlib
+seaborn
+scikit-posthocs
+xgboost>=2.0
+transformers>=4.40
+safetensors
+jupyter
+nbconvert
+ipykernel
+emoji>=2.10

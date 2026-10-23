@@ -1,0 +1,13 @@
+data/raw/
+data/_src/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.pytest_cache/
+.venv/
+_arsip/
+jobs/
+results/_discarded_nondeterministic/
+.DS_Store
+data/external/
+results/tapt/

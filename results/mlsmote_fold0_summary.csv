@@ -1,0 +1,3 @@
+,detik,n_train_awal,n_sintetis,n_diperbaiki,sintetis_melanggar_hierarki,label_diproses
+mlsmote_murni,0.37,10218,2063,0,321,"HS_Religion, HS_Race, HS_Physical, HS_Gender, HS_Strong"
+mlsmote_repair,0.49,10218,2095,292,0,"HS_Religion, HS_Race, HS_Physical, HS_Gender, HS_Strong"

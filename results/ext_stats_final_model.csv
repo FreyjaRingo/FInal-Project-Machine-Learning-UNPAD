@@ -1,0 +1,4 @@
+pembanding,selisih_macroF1,label_lebih_baik,wilcoxon_p,ttest_corr_p,wilcoxon_p_holm
+IndoBERTweet v1,0.0442,12,0.0005,0.0053,0.0015
+LinearSVC BR tuned (kata),0.0934,12,0.0005,0.0,0.0015
+LinearSVC CC tuned (kata+char),0.085,12,0.0005,0.0003,0.0015

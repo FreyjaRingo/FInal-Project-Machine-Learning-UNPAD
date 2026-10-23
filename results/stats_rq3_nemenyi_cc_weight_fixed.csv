@@ -1,0 +1,5 @@
+,Complement NB,LinearSVC,XGBoost,MLP
+Complement NB,1.0,0.0001,0.0028,0.023
+LinearSVC,0.0001,1.0,0.7785,0.3894
+XGBoost,0.0028,0.7785,1.0,0.9216
+MLP,0.023,0.3894,0.9216,1.0
