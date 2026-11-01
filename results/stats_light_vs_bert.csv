@@ -1,2 +1,0 @@
-model_ringan,indobertweet,macroF1_ringan,macroF1_bert,selisih,label_bert_lebih_baik,wilcoxon_p,ttest_corr_p,waktu_latih_ringan_s,waktu_latih_bert_s
-svm | br | none | tuned,bert | mo | weight | tuned,0.684,0.7332,0.0492,10,0.0024,0.0016,0.228,250.48

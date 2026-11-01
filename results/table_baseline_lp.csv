@@ -1,4 +1,0 @@
-algo,jaccard_acc,macro_f1,minority_macro_f1,selisih_vs_66.12_pp
-Complement NB,0.7198,0.5778,0.4693,5.86
-Random Forest,0.7065,0.5099,0.4017,4.53
-LinearSVC,0.7496,0.6192,0.5429,8.84
